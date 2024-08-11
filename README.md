@@ -9,6 +9,10 @@ TradeWise is a a super fast AI-powered chatbot that delivers real-time financial
 
 ⚠️ **Important**: FalconX is designed for informational purposes only and does not provide financial advice.
 
+
+https://github.com/user-attachments/assets/1e9c497d-a0d8-4e87-8de8-8035ceecee56
+
+
 ## Features
 
 * 🤖 **Real-Time AI Chatbot**: Converse naturally with FalconX to get instant insights on stocks, market trends, and financial news.
