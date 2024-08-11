@@ -6,7 +6,8 @@
 
 We at FalconX are thrilled to unveil TradeWise – the financial assistant that's about to revolutionize your trading game!
 
-Imagine having a financial genius in your pocket, ready to provide instant, contextually accurate responses to your every query. That's TradeWise – offering a level of speed and functionality that will leave you wondering how you ever traded without it.
+Imagine having a financial genius in your pocket, ready to provide instant responses to your every query. That's TradeWise – offering a level of speed and functionality that will leave you wondering how you ever traded without it.
+
 TradeWise is a lightning-fast, AI-powered chatbot that puts the pulse of the markets at your fingertips. Fueled by the cutting-edge Llama3.1-70B-Groq engine, this digital dynamo delivers real-time financial data, interactive charts, and breaking market news with unparalleled speed and precision.
 
 
