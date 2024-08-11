@@ -1,10 +1,11 @@
-# 🚀 FalconX: A Lightning Fast AI Chatbot for Real-Time Financial Data, Charts, News, and More!
+# 🚀 TradeWise: A Lightning Fast AI Chatbot for Real-Time Financial Data, Charts, News, and More!
 
 [Overview](#overview) • [Features](#features) • [Interfaces](#interfaces) • [Quickstart](#quickstart) • [Credits](#credits)
 
 ## Overview
 
-FalconX is a cutting-edge AI-powered chatbot that delivers real-time financial data, interactive charts, market news, and more. Powered by the FalconX engine, this chatbot uses the latest advancements in AI to provide instant and contextually accurate responses to your queries, offering unparalleled speed and functionality.
+We at FalconX are glad to announce TradeWise!
+TradeWise is a a super fast AI-powered chatbot that delivers real-time financial data, interactive charts, market news, and more. Powered by the Llama3.1-70B-Groq, this chatbot uses the latest advancements in AI to provide instant and contextually accurate responses to your queries, offering unparalleled speed and functionality.
 
 ⚠️ **Important**: FalconX is designed for informational purposes only and does not provide financial advice.
 
