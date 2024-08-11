@@ -4,8 +4,10 @@
 
 ## Overview
 
-We at FalconX are glad to announce TradeWise!
-TradeWise is a a super fast AI-powered chatbot that delivers real-time financial data, interactive charts, market news, and more. Powered by the Llama3.1-70B-Groq, this chatbot uses the latest advancements in AI to provide instant and contextually accurate responses to your queries, offering unparalleled speed and functionality.
+We at FalconX are thrilled to unveil TradeWise – the financial assistant that's about to revolutionize your trading game!
+Imagine having a financial genius in your pocket, ready to provide instant, contextually accurate responses to your every query. That's TradeWise – offering a level of speed and functionality that will leave you wondering how you ever traded without it.
+TradeWise is a lightning-fast, AI-powered chatbot that puts the pulse of the markets at your fingertips. Fueled by the cutting-edge Llama3.1-70B-Groq engine, this digital dynamo delivers real-time financial data, interactive charts, and breaking market news with unparalleled speed and precision.
+
 
 ⚠️ **Important**: FalconX is designed for informational purposes only and does not provide financial advice.
 
