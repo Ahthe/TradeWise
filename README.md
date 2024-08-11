@@ -12,28 +12,27 @@ TradeWise is a a super fast AI-powered chatbot that delivers real-time financial
 
 https://github.com/user-attachments/assets/1e9c497d-a0d8-4e87-8de8-8035ceecee56
 
+## 🌟 Key Features
 
-## Features
+- 🧠 **AI Brain**: Chat with TradeWise to get instant insights on stocks, market trends, and financial news.
+- 📊 **Visual Feast**: Devour data through stunning, interactive charts that bring numbers to life
+- 🌍 **Global Reach**: Access financial intel from every corner of the globe, 24/7
+- ⚡ **Lightning Fast**: Get answers at the speed of thought, powered by Llama3.1-70B Groq
+- 🎯 **Precision Analysis**: Dive deep into stocks, forex, crypto, and more with laser-focused accuracy
 
-* 🤖 **Real-Time AI Chatbot**: Converse naturally with FalconX to get instant insights on stocks, market trends, and financial news.
-* 📊 **Interactive Financial Charts**: Access real-time, dynamic charts that display live data tailored to your queries.
-* ⚙️ **Customizable Market Analysis**: Get personalized financial data and analysis across various asset classes, including stocks, forex, bonds, and cryptocurrencies.
-* ⚡ **Ultra-Fast Performance**: Experience lightning-fast responses thanks to FalconX's state-of-the-art AI and high-speed processing capabilities.
-* 🌍 **Global Market Coverage**: Dive into comprehensive financial information from global markets, covering a wide range of assets and sectors.
+## 🛠️ TradeWise Toolkit
 
-## Interfaces
-
-| Description | Widget |
-|-------------|--------|
-| **Heatmap of Market Performance** Quickly visualize market trends with an interactive heatmap. | 🚦 Market Performance Heatmap |
-| **Stock Financial Data Breakdown** Access detailed metrics and key performance indicators for any stock. | 📊 Financial Data Breakdown |
-| **Stock Price History** Track the historical price movements of stocks with customizable date ranges. | 🗓️ Price History |
-| **Candlestick Stock Charts** Analyze market trends with detailed candlestick charts. | 📉 Candlestick Charts |
-| **Latest Stock News** Stay updated with the latest news and headlines related to specific stocks. | 📰 Stock News |
-| **Market Overview** Get an overview of today's stock, futures, bond, and forex market performance. | 🌐 Market Overview |
-| **Stock Screener** Discover new investment opportunities with a powerful stock screening tool. | 🔍 Stock Screener |
-| **Trending Stocks** See the top gaining, losing, and most active stocks of the day. | 📈 Trending Stocks |
-| **ETF Heatmap** Visualize the performance of ETFs across various sectors and asset classes. | 🗺️ ETF Heatmap |
+| Powerhouse Tool | What It Does |
+|-----------------|--------------|
+| 🔥 TrendSpotter | Instantly grasp market momentum with our dynamic, color-coded heatmap. |
+| 💹 StockX-Ray | Dissect any stock's vital signs with our comprehensive financial health scanner. |
+| ⏳ TimeWarp | Journey through a stock's price history with our customizable time-travel chart. |
+| 🕯️ CandleForge | Master market psychology with our advanced, interactive candlestick charting. |
+| 📡 NewsRadar | Stay ahead of the curve with real-time, AI-curated stock-specific news feeds. |
+| 🌐 GlobalPulse | Feel the heartbeat of world markets across stocks, futures, bonds, and forex. |
+| 🎯 StockHunter | Uncover hidden gems and potential rockets with our smart stock screening engine. |
+| 🏆 MarketMovers | Spot today's champions and underdogs with our real-time stock performance tracker. |
+| 🗺️ ETF Explorer | Navigate the ETF landscape with our sector and asset class performance visualizer. |
 
 ## Quickstart
 
