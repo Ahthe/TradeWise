@@ -45,4 +45,8 @@ https://github.com/user-attachments/assets/1e9c497d-a0d8-4e87-8de8-8035ceecee56
 ## Credits
 FalconX is developed and maintained by Ahthesham Ali, Meer Shahnawaz Ali, Abdul Arif and Jon Victor. 
 
+## Inspiration From
+
+https://github.com/bklieger-groq 
+
 © 2024 FalconX. All rights reserved.
