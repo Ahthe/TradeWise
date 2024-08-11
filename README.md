@@ -40,11 +40,9 @@ https://github.com/user-attachments/assets/1e9c497d-a0d8-4e87-8de8-8035ceecee56
 
 ## Quickstart
 
-🚀 **Getting Started**: You can start using FalconX immediately by visiting our hosted version at falconx-app.vercel.app.
-
-To run FalconX locally, follow these steps:
+🚀 **Getting Started**: You can start using FalconX immediately by visiting our hosted version at [tradewise-app.vercel.app](https://trade-wise-theta.vercel.app/).
 
 ## Credits
-FalconX is developed and maintained by Ahthesham Ali, Meer Shahnawaz Ali, Abdul Arif, Jon Victor. 
+FalconX is developed and maintained by Ahthesham Ali, Meer Shahnawaz Ali, Abdul Arif and Jon Victor. 
 
 © 2024 FalconX. All rights reserved.
