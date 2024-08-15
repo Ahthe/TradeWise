@@ -4,6 +4,7 @@ import { AI } from '@/lib/chat/actions'
 import { Session } from '@/lib/types'
 import { getMissingKeys } from '@/app/actions'
 
+
 export const metadata = {
   title: 'TradeWise - AI Chatbot'
 }
