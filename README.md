@@ -16,6 +16,8 @@ TradeWise is a lightning-fast, AI-powered chatbot that puts the pulse of the mar
 
 https://github.com/user-attachments/assets/1e9c497d-a0d8-4e87-8de8-8035ceecee56
 
+![AppleStock](img/AppleStock.jpg)
+
 ![Heatmap](img/heatmap.jpg)
 
 ![TradingView](img/TradingView.jpg)
