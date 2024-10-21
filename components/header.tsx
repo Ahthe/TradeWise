@@ -8,7 +8,10 @@ import { IconGitHub, IconSeparator } from '@/components/ui/icons'
 function Navigation() {
   return (
     <nav className="flex items-center space-x-4">
-      <Link href="/new" className="text-xl font-bold text-primary hover:text-primary/80 transition-colors">
+      <Link
+        href="/new"
+        className="text-xl font-bold text-primary hover:text-primary/80 transition-colors"
+      >
         TradeWise
       </Link>
       <IconSeparator className="size-6 text-muted-foreground/50" />
@@ -16,7 +19,7 @@ function Navigation() {
         href="/new"
         className={cn(
           buttonVariants({ variant: 'ghost' }),
-          "text-sm font-medium text-muted-foreground hover:text-primary"
+          'text-sm font-medium text-muted-foreground hover:text-primary'
         )}
       >
         Start New Chat
@@ -36,7 +39,7 @@ export function Header() {
           rel="noopener noreferrer"
           className={cn(
             buttonVariants({ variant: 'outline', size: 'sm' }),
-            "text-xs font-medium hover:bg-primary hover:text-primary-foreground transition-colors"
+            'text-xs font-medium hover:bg-primary hover:text-primary-foreground transition-colors'
           )}
         >
           <IconGitHub className="mr-2 size-4" />
