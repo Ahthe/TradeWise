@@ -20,6 +20,8 @@ https://github.com/user-attachments/assets/1e9c497d-a0d8-4e87-8de8-8035ceecee56
 
 ![TradingView](img/TradingView.jpg)
 
+![Financials](img/Financials.png)
+
 ![Candlesticks](img/Candlesticks.png)
 
 ## 🌟 Key Features
